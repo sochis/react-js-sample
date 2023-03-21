@@ -1,0 +1,9 @@
+{
+  "home": {
+    "title": "JS React Sample",
+    "main": {
+      "title": "Main",
+      "description": "メインページに遷移します。"
+    }
+  }
+}
